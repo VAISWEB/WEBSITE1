@@ -1935,7 +1935,9 @@ pre code {
     border-radius: .25rem;
     transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s
 }
-
+section#contact{
+    background-color: #007bff
+}
 .form-control::-ms-expand {
     background-color: transparent;
     border: 0

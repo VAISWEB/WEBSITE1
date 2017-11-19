@@ -55,7 +55,9 @@ body {
 }
 
 /* Custom Horizontal Rule */
-
+.section-heading {
+  padding: 20px;
+}
 hr.small {
     max-width: 100px;
 }
